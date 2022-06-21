@@ -1,4 +1,4 @@
-# reactive-pg-client-quickstart Project
+# reactive-sql-client-quickstart Project implementing a simple RowSet Mapper
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
