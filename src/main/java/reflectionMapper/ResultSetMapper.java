@@ -1,4 +1,4 @@
-package mapper;
+package reflectionMapper;
 
 import io.vertx.mutiny.sqlclient.Row;
 import io.vertx.mutiny.sqlclient.RowSet;

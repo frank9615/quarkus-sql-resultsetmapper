@@ -1,7 +1,6 @@
 package com.example.resource;
 
-import mapper.ResultSetMapper;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import reflectionMapper.ResultSetMapper;
 import io.smallrye.mutiny.Uni;
 import lombok.extern.slf4j.Slf4j;
 import model.Utente;
